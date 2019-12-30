@@ -2,7 +2,8 @@
 ### **Cornell University** | Physics & Mathematics | May 2020
 
 [CV](https://joshuafagin.github.io/Publications/cv.pdf)
-[Resume]()
+
+[Resume](https://joshuafagin.github.io/Publications/resume.pdf)
 
 * [Cornell Fast Rotation Fourier Method](https://joshuafagin.github.io/Publications/CornellFastRotationFourierMethod.pdf)
 * [Fast Rotation 60 Hour Run](https://joshuafagin.github.io/Publications/CornellFastRotationFourier_Run1_60h.pdf)
