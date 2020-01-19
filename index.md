@@ -1,8 +1,6 @@
 # Joshua Fagin
 ### **Cornell University** | Physics & Mathematics | August 2016 - May 2020
 
-[CV](https://joshuafagin.github.io/Publications/cv.pdf)
-
 * [Cornell Fast Rotation Fourier Method](https://joshuafagin.github.io/Publications/CornellFastRotationFourierMethod.pdf)
 * [Fourier Method Background Correction](https://joshuafagin.github.io/Publications/CornellFourierBackgroundCorrection.pdf)
 * [Fourier Method User Guide and Documentation](https://joshuafagin.github.io/Publications/CornellFourierUserGuide.pdf)
